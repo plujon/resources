@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<%-
+require 'yaml'
+require_relative 'helpers'
+resources = YAML::load_file("data.yml")
+resources.select! { |x| x["url"] }
+# TODO: random sort
+-%>
+  <head>
+    <title>List of Porn Mitigation Resources</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="description" content="A searchable list of porn mitigation resources with <%= resources.size %> entries.  This page is intended to help people whose lives are affected negatively by porn find resources that can help them in their particular life situation.">
+    <link rel="stylesheet" type="text/css" href="css/datatables.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/css.css"/>
+    <script type="text/javascript" src="js/datatables.min.js"></script>
+    <script type="text/javascript" src="js/js.js"></script>
+  </head>
+<body>
+<%= partial("navbar") %>
+<div class="container">
+  <div class="page-header">
+    <h1>Porn Mitigation and Recovery Resources
+      <small>a work in progress</small>
+    </h1>
+    <a href="https://github.com/plujon/resources" class="btn btn-warning" title="If you don't know how to use github, feel free to use the contact me link on the github page."><span class="glyphicon glyphicon-edit"></span> edit this page</a>
+  </div>
+  <div class="row">
+    <div class="table">
+      <table id="thetable" class="table">
+        <caption>Various Resources</caption>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Audience</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Worldview</th>
+          </tr>
+        </thead>
+        <tbody>
+          <%- resources.each do |resource| -%>
+          <tr>
+            <td>
+              <a href="<%= resource["url"] %>" title="<%= resource["name"]%>">
+                <%= resource["name"] %>
+              </a>
+            </td>
+            <td><%= resource["audience"].join(" ") %></td>
+            <td><%= resource["type"] %></td>
+            <td><%= resource["description"] %></td>
+            <td><%= resource["worldview"] %></td>
+          </tr>
+          <%- end -%>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+<%
+   # Local Variables:
+   # compile-command: "erb -T - index.html.erb >index.html && firefox index.html"
+   # End:
+   %>

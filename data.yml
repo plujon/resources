@@ -1,0 +1,17 @@
+---
+- name: The Porn Effect
+  audience:
+  - pornaholic
+  cost: free
+  description: Description goes here.
+  type: program
+  url: http://www.theporneffect.com/
+  worldview: Christian
+- name: The Sacred Sexuality Project
+  audience:
+  - pornaholic
+  cost: free
+  description: Description goes here.
+  type: blog
+  url: http://sacredsexualityproject.com/
+  worldview: Christian
