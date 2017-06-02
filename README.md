@@ -3,8 +3,8 @@
 ## What is this site?
 
 This site is an attempt to gather a comprehensive list of resources
-that would be helpful to people who have been malaffected by porn.
-This includes
+that would be helpful to people who have been harmed by porn.  This
+includes
 
 * parents who are concerned about porn's pervasivness and effect on
 their children,
