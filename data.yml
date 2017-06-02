@@ -1,7 +1,44 @@
 ---
+- name: http://ginakaye.org/
+  audience:
+  - spouse
+  description: Gina Kaye's home website that has various resources for those who have
+    experienced sexual betrayal.
+  type: blog
+  url: http://ginakaye.org/
+- name: http://netaddictionrecovery.com/
+  audience:
+  - pornasexual
+  description: Residential treatment center for addressing problematic use of the
+    Internet.
+  type: Residential treatment
+  url: http://netaddictionrecovery.com/
+- name: http://pluckeye.net/organizations.html
+  audience:
+  - pornasexual
+  - general
+  description: The list of organizations on the Pluckeye contains links to various
+    online resources and programs that relate to porn addiction and the effects of
+    porn.
+  type: meta
+  url: http://pluckeye.net/organizations.html
+  worldview: Christian and other
+- name: https://setfreesummit.org/resources-and-tools/
+  audience:
+  - pornasexual
+  - general
+  - spouse
+  - parents
+  description: The resources and tools page of the setfreesummit site includes various
+    links to and descriptions of materials such as books, dvds, programs, and more
+    offered by those who exhibited at the setfreesummit (the setfreesummit was focused
+    on discussing porn use in the church).
+  type: meta
+  url: https://setfreesummit.org/resources-and-tools/
+  worldview: Christian
 - name: The Porn Effect
   audience:
-  - pornaholic
+  - pornasexual
   cost: free
   description: Description goes here.
   type: program
@@ -9,7 +46,7 @@
   worldview: Christian
 - name: The Sacred Sexuality Project
   audience:
-  - pornaholic
+  - pornasexual
   cost: free
   description: Description goes here.
   type: blog
