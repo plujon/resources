@@ -7,20 +7,13 @@
   type: blog
   url: http://www.beltoftruth.com/
   worldview: Christian
-- name: http://ginakaye.org/
+- name: Gina Kaye
   audience:
   - spouse
   description: Gina Kaye's home website that has various resources for those who have
     experienced sexual betrayal.
   type: blog
   url: http://ginakaye.org/
-- name: http://netaddictionrecovery.com/
-  audience:
-  - pornasexual
-  description: Residential treatment center for addressing problematic use of the
-    Internet.
-  type: Residential treatment
-  url: http://netaddictionrecovery.com/
 - name: http://pluckeye.net/organizations.html
   audience:
   - pornasexual
@@ -44,6 +37,13 @@
   type: meta
   url: https://setfreesummit.org/resources-and-tools/
   worldview: Christian
+- name: reSTART
+  audience:
+  - pornasexual
+  description: Residential treatment center for addressing problematic use of the
+    Internet.
+  type: Residential treatment
+  url: http://netaddictionrecovery.com/
 - name: The Porn Effect
   audience:
   - pornasexual
