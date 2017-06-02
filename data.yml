@@ -1,4 +1,12 @@
 ---
+- name: Belt of Truth Ministries
+  audience:
+  - pornasexual
+  description: Steve Kuhn, author and blogger, writes at Belt of Truth Ministries.  The
+    site contains a variety of content as well as links to other resources.
+  type: blog
+  url: http://www.beltoftruth.com/
+  worldview: Christian
 - name: http://ginakaye.org/
   audience:
   - spouse
