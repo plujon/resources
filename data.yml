@@ -4,24 +4,68 @@
   - pornasexual
   cost: free
   description: Author and blogger Steve Kuhn writes at Belt of Truth Ministries.  The
-    site contains a variety of content relating to recovery from porn compulsion as well as links to other resources.
-  type: blog
+    site contains a variety of content relating to recovery from porn compulsion as
+    well as links to other resources.
+  features: blog
   url: http://www.beltoftruth.com/
+  worldview: Christian
+- name: Dirty Girls Ministries
+  audience:
+  - pornasexual (female)
+  - sexaholic (female)
+  description: Founded by Crystal Renaud, Dirty Girls Ministries hosts online groups
+    for women who are struggling with pornography and sexual addiction.
+  features:
+  - online groups
+  - weekly prayercast
+  - coaching by phone or video conferencing
+  url: http://dirtygirlsministries.com/
+  worldview: Christian
+- name: Fight the New Drug
+  audience:
+  - pornasexual
+  - general
+  cost: free to $15
+  description: Fight the New Drug is an organization whose goal is to educate the
+    public and to encourage the culture at large to think critically about its current
+    acceptance of pornography.  FTND frequently does research and publishes stories
+    that other like-minded organizations reference.  They also have created a mobile
+    app called "Fortify" that is designed to help pornasexuals think more deeply about
+    the effects porn has on them and why they should quit using porn.  Clay Olsen
+    is the co-founder and main face of the organization.
+  features:
+  - mobile app
+  - research, studies, and stories
+  - cultural engagement
+  url: http://fightthenewdrug.org/
+- name: Forgiven Much Ministries
+  audience:
+  - pornasexual
+  - sexaholic
+  description: FMM educates and equips the public on Trauma Model / Core Issue Addiction
+    Recovery (CIAR), which they think is the next generation of addiction recovery.
+  features:
+  - information about how to overcome addiction
+  url: http://www.forgivenmuchministries.org/
   worldview: Christian
 - name: Gina Kaye
   audience:
   - spouse
   cost: free
-  description: Gina Kaye is passionate about helping those who have experienced sexual betrayal.
-  type: blog
+  description: Gina Kaye is passionate about helping those who have experienced sexual
+    betrayal.
+  features: blog
   url: http://ginakaye.org/
 - name: http://pluckeye.net/organizations.html
   audience:
   - pornasexual
   - general
   cost: free
-  description: The list of organizations on the Pluckeye contains links to various online resources and programs that relate to porn addiction and the effects of porn.  The author of the site got the list of organizations from Internet searches and personal contacts.  The list is not vetted for quality of material.
-  type: meta
+  description: The list of organizations on the Pluckeye contains links to various
+    online resources and programs that relate to porn addiction and the effects of
+    porn.  The author of the site got the list of organizations from Internet searches
+    and personal contacts.  The list is not vetted for quality of material.
+  features: links
   url: http://pluckeye.net/organizations.html
   worldview: Christian and other
 - name: https://setfreesummit.org/resources-and-tools/
@@ -35,39 +79,20 @@
     links to and descriptions of materials such as books, dvds, programs, and more
     offered by those who exhibited at the setfreesummit (the setfreesummit was focused
     on discussing porn use in the church).
-  type: meta
+  features: links
   url: https://setfreesummit.org/resources-and-tools/
   worldview: Christian
-- name: reSTART
-  audience:
-  - pornasexual
-  cost:
-  description: reSTART is a residential treatment center for addressing problematic use of the Internet.
-  type: Residential treatment
-  url: http://netaddictionrecovery.com/
-- name: The Porn Effect
-  audience:
-  - pornasexual
-  cost: free
-  description: The Porn Effect is designed to help individuals end their pornography addiction.  Catholic in origin, the site contains a "battle plan" that encorporates spiritual disciplines such as prayer, fasting, and accountability.  It is highly regarded by the editor because it dares to recommend fasting and prayer.
-  type: program
-  url: http://www.theporneffect.com/
-  worldview: Christian
-- name: The Sacred Sexuality Project
-  audience:
-  - pornasexual
-  cost: free
-  description: Rarely updated blog by Matt Queppet.
-  type: blog
-  url: http://sacredsexualityproject.com/
-  worldview: Christian, with eastern religious sympathies
 - name: Pure Desire
   audience:
   - pornasexual
   - spouse
   cost: free+
-  description: Pure Desire is best know for their Conqueror DVD series with Ted Roberts.  The DVD series is most useful in a male Christian recovery and accountability group.  Pure Desire also puts on conveferences.  also has other materials, primarily books and counseling, helpful for ministers, betrayed spouses, or for individuals trying to quit porn.
-  type:
+  description: Pure Desire is best know for their Conqueror DVD series with Ted Roberts.  The
+    DVD series is most useful in a male Christian recovery and accountability group.  Pure
+    Desire also puts on conveferences.  also has other materials, primarily books
+    and counseling, helpful for ministers, betrayed spouses, or for individuals trying
+    to quit porn.
+  features:
   - groupwork
   - books
   - counseling
@@ -75,40 +100,29 @@
   - speaker
   url: http://www.puredesire.org/
   worldview: Christian
-- name: Dirty Girls Ministries
-  audience:
-  - pornasexual (female)
-  - sexaholic (female)
-  cost:
-  description: Founded by Crystal Renaud, Dirty Girls Ministries hosts online groups for women who are struggling with pornography and sexual addiction.
-  features:
-  - online groups
-  - weekly prayercast
-  - coaching by phone or video conferencing
-  url: http://dirtygirlsministries.com/
-  worldview: Christian
-- name: Fight the New Drug
+- name: reSTART
   audience:
   - pornasexual
-  - general
-  cost: free to $15
-  description: Fight the New Drug is an organization whose goal is to educate the public and to encourage the culture at large to think critically about its current acceptance of pornography.  FTND frequently does research and publishes stories that other like-minded organizations reference.  They also have created a mobile app called "Fortify" that is designed to help pornasexuals think more deeply about the effects porn has on them and why they should quit using porn.  Clay Olsen is the co-founder and main face of the organization.
-  features:
-  - mobile app
-  - research, studies, and stories
-  - cultural engagement
-  url: http://fightthenewdrug.org/
-  worldview:
-- name: Forgiven Much Ministries
+  description: reSTART is a residential treatment center for addressing problematic
+    use of the Internet.
+  features: residential treatment
+  url: http://netaddictionrecovery.com/
+- name: The Porn Effect
   audience:
   - pornasexual
-  - sexaholic
-  cost:
-  description: FMM educates and equips the public on Trauma Model / Core Issue Addiction Recovery (CIAR), which they think is the next generation of addiction recovery.
-  features:
-  - information about how to overcome addiction
-  url: http://www.forgivenmuchministries.org/
+  cost: free
+  description: The Porn Effect is designed to help individuals end their pornography
+    addiction.  Catholic in origin, the site contains a "battle plan" that encorporates
+    spiritual disciplines such as prayer, fasting, and accountability.  It is highly
+    regarded by the editor because it dares to recommend fasting and prayer.
+  features: program
+  url: http://www.theporneffect.com/
   worldview: Christian
-- name:
-  url: https://guardyoureyes.com/
-  worldview: Jewish
+- name: The Sacred Sexuality Project
+  audience:
+  - pornasexual
+  cost: free
+  description: Rarely updated blog by Matt Queppet.
+  features: blog
+  url: http://sacredsexualityproject.com/
+  worldview: Christian, with eastern religious sympathies
