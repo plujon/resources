@@ -48,26 +48,6 @@
   - information about how to overcome addiction
   url: http://www.forgivenmuchministries.org/
   worldview: Christian
-- name: Gina Kaye
-  audience:
-  - spouse
-  cost: free
-  description: Gina Kaye is passionate about helping those who have experienced sexual
-    betrayal.
-  features: blog
-  url: http://ginakaye.org/
-- name: http://pluckeye.net/organizations.html
-  audience:
-  - pornasexual
-  - general
-  cost: free
-  description: The list of organizations on the Pluckeye contains links to various
-    online resources and programs that relate to porn addiction and the effects of
-    porn.  The author of the site got the list of organizations from Internet searches
-    and personal contacts.  The list is not vetted for quality of material.
-  features: links
-  url: http://pluckeye.net/organizations.html
-  worldview: Christian and other
 - name: https://setfreesummit.org/resources-and-tools/
   audience:
   - pornasexual
@@ -82,15 +62,28 @@
   features: links
   url: https://setfreesummit.org/resources-and-tools/
   worldview: Christian
+- name: https://wiki.pluckeye.net/resources
+  audience:
+  - pornasexual
+  - general
+  cost: free
+  description: The list of organizations on the Pluckeye contains links to various
+    online resources and programs that relate to porn addiction and the effects of
+    porn.  The author of the site got the list of organizations from Internet searches
+    and personal contacts.  The list is not vetted for quality of material.
+  features: links
+  url: http://pluckeye.net/organizations.html
+  worldview: Christian and other
 - name: Pure Desire
   audience:
   - pornasexual
   - spouse
   cost: free+
   description: Pure Desire is best know for their Conqueror DVD series with Ted Roberts.  The
-    DVD series is most useful in a male Christian recovery and accountability group.  Pure Desire has other materials, primarily books
+    DVD series is most useful in a male Christian recovery and accountability group.  Pure
+    Desire also puts on conveferences.  also has other materials, primarily books
     and counseling, helpful for ministers, betrayed spouses, or for individuals trying
-    to quit porn.  Pure Desire also hosts conferences throughout the US.
+    to quit porn.
   features:
   - groupwork
   - books
